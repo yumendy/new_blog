@@ -16,6 +16,8 @@ install:
 before_script:
 # 无其他依赖项所以执行npm run build 构建就行了
 script:
+  - git submodule init
+  - git submodule update
   - hexo clean  #清除
   - hexo generate #生成
 after_script:

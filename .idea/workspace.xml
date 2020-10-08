@@ -14,12 +14,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="2020-10-8">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="add travis ci">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/好好生活.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/好好生活.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601977470181</updated>
       <workItem from="1601977471943" duration="9661000" />
-      <workItem from="1602064343257" duration="16490000" />
+      <workItem from="1602064343257" duration="17846000" />
     </task>
     <task id="LOCAL-00001" summary="2020-10-6">
       <created>1601983050826</created>
@@ -136,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602095973613</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add travis ci">
+      <created>1602133387923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602133387923</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +162,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2020-10-6" />
     <MESSAGE value="2020-10-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-10-8" />
+    <MESSAGE value="add travis ci" />
+    <option name="LAST_COMMIT_MESSAGE" value="add travis ci" />
   </component>
   <component name="WindowStateProjectService">
     <state x="224" y="114" width="1089" height="655" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602067871532">
@@ -178,30 +182,30 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="669" y="165" key="Github.UntrackedFilesDialog/0.0.1707.920@0.0.1707.920" timestamp="1601978094832" />
-    <state width="1685" height="287" key="GridCell.Tab.0.bottom" timestamp="1602133057080">
+    <state width="1685" height="157" key="GridCell.Tab.0.bottom" timestamp="1602133730470">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="287" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1602133057080" />
-    <state width="1685" height="287" key="GridCell.Tab.0.center" timestamp="1602133057080">
+    <state width="1685" height="157" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1602133730470" />
+    <state width="1685" height="157" key="GridCell.Tab.0.center" timestamp="1602133730470">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="287" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1602133057080" />
-    <state width="1685" height="287" key="GridCell.Tab.0.left" timestamp="1602133057080">
+    <state width="1685" height="157" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1602133730470" />
+    <state width="1685" height="157" key="GridCell.Tab.0.left" timestamp="1602133730470">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="287" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1602133057080" />
-    <state width="1685" height="287" key="GridCell.Tab.0.right" timestamp="1602133057080">
+    <state width="1685" height="157" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1602133730470" />
+    <state width="1685" height="157" key="GridCell.Tab.0.right" timestamp="1602133730470">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="287" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1602133057080" />
+    <state width="1685" height="157" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1602133730470" />
     <state x="355" y="105" key="SettingsEditor" timestamp="1602068995218">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="355" y="105" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1602068995218" />
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1602095569916">
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1602133395324">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1602095569916" />
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1602133395324" />
     <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1602067828121">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
