@@ -14,8 +14,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="add travis ci">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="fix travis ci">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601977470181</updated>
       <workItem from="1601977471943" duration="9661000" />
-      <workItem from="1602064343257" duration="17846000" />
+      <workItem from="1602064343257" duration="18147000" />
     </task>
     <task id="LOCAL-00001" summary="2020-10-6">
       <created>1601983050826</created>
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602133387923</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix travis ci">
+      <created>1602134535360</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602134535360</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +170,8 @@
     <MESSAGE value="2020-10-6" />
     <MESSAGE value="2020-10-8" />
     <MESSAGE value="add travis ci" />
-    <option name="LAST_COMMIT_MESSAGE" value="add travis ci" />
+    <MESSAGE value="fix travis ci" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix travis ci" />
   </component>
   <component name="WindowStateProjectService">
     <state x="224" y="114" width="1089" height="655" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602067871532">
@@ -202,10 +210,10 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="355" y="105" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1602068995218" />
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1602133395324">
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1602134537337">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1602133395324" />
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1602134537337" />
     <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1602067828121">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
