@@ -10,29 +10,16 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="2020-10-8">
-      <changelist_data name="yiduan" email="yiduan@tencent.com" />
-      <change afterPath="$PROJECT_DIR$/source/_data/languages.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/好好生活.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/book-list/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.next.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.next.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/又一个博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/又一个博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/好好生活.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/好好生活.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +29,14 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="yumendy" />
         <option value="yiduan &lt;yiduan@tencent.com&gt;" />
         <option value="yumendy@163.com" />
         <option value="Duan Yi" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1iV0Uc4vqbtS9Xag43TfqxzKlLP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -124,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601977470181</updated>
       <workItem from="1601977471943" duration="9661000" />
-      <workItem from="1602064343257" duration="13518000" />
+      <workItem from="1602064343257" duration="16490000" />
     </task>
     <task id="LOCAL-00001" summary="2020-10-6">
       <created>1601983050826</created>
@@ -140,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602095557705</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020-10-8">
+      <created>1602095973613</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602095973613</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +147,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="SHOW_ROOT_NAMES" value="true" />
+            </State>
           </value>
         </entry>
       </map>
@@ -168,6 +166,10 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="224" y="114" width="1089" height="655" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1602067871532" />
+    <state x="584" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602133049306">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="584" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1602133049306" />
     <state x="727" y="358" key="Github.ShareDialog" timestamp="1601978066373">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
@@ -176,22 +178,22 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="669" y="165" key="Github.UntrackedFilesDialog/0.0.1707.920@0.0.1707.920" timestamp="1601978094832" />
-    <state width="1685" height="373" key="GridCell.Tab.0.bottom" timestamp="1602094069664">
+    <state width="1685" height="287" key="GridCell.Tab.0.bottom" timestamp="1602133057080">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="373" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1602094069664" />
-    <state width="1685" height="373" key="GridCell.Tab.0.center" timestamp="1602094069664">
+    <state width="1685" height="287" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1602133057080" />
+    <state width="1685" height="287" key="GridCell.Tab.0.center" timestamp="1602133057080">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="373" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1602094069664" />
-    <state width="1685" height="373" key="GridCell.Tab.0.left" timestamp="1602094069664">
+    <state width="1685" height="287" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1602133057080" />
+    <state width="1685" height="287" key="GridCell.Tab.0.left" timestamp="1602133057080">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="373" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1602094069664" />
-    <state width="1685" height="373" key="GridCell.Tab.0.right" timestamp="1602094069664">
+    <state width="1685" height="287" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1602133057080" />
+    <state width="1685" height="287" key="GridCell.Tab.0.right" timestamp="1602133057080">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="373" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1602094069664" />
+    <state width="1685" height="287" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1602133057080" />
     <state x="355" y="105" key="SettingsEditor" timestamp="1602068995218">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
