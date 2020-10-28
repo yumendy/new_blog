@@ -6,11 +6,16 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="add git sub modules">
+    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="update book list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +111,9 @@
       <updated>1601977470181</updated>
       <workItem from="1601977471943" duration="9661000" />
       <workItem from="1602064343257" duration="19821000" />
+      <workItem from="1602770727339" duration="1974000" />
+      <workItem from="1602951127939" duration="1537000" />
+      <workItem from="1603674480361" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="2020-10-6">
       <created>1601983050826</created>
@@ -149,7 +157,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602134961850</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update book list">
+      <created>1602770871661</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602770871661</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update book list 2020">
+      <created>1602951325955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602951325955</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update book list.">
+      <created>1603674833334</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603674833335</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +196,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -175,7 +205,10 @@
     <MESSAGE value="add travis ci" />
     <MESSAGE value="fix travis ci" />
     <MESSAGE value="add git sub modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="add git sub modules" />
+    <MESSAGE value="update book list" />
+    <MESSAGE value="update book list 2020" />
+    <MESSAGE value="update book list." />
+    <option name="LAST_COMMIT_MESSAGE" value="update book list." />
   </component>
   <component name="WindowStateProjectService">
     <state x="224" y="114" width="1089" height="655" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602067871532">
@@ -214,10 +247,10 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="355" y="105" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1602068995218" />
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1602134964316">
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603674836029">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1602134964316" />
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1603674836029" />
     <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1602067828121">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
