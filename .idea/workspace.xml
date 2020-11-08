@@ -16,6 +16,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="update book list">
+      <change afterPath="$PROJECT_DIR$/source/_posts/聊一聊信息流和读书.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +27,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="yumendy &lt;yumendy@163.com&gt;" />
         <option value="yumendy" />
         <option value="yiduan &lt;yiduan@tencent.com&gt;" />
         <option value="yumendy@163.com" />
@@ -114,6 +116,8 @@
       <workItem from="1602770727339" duration="1974000" />
       <workItem from="1602951127939" duration="1537000" />
       <workItem from="1603674480361" duration="950000" />
+      <workItem from="1603851451728" duration="783000" />
+      <workItem from="1604836156999" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="2020-10-6">
       <created>1601983050826</created>
@@ -178,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603674833335</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update book list">
+      <created>1603851606871</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603851606871</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,10 +216,10 @@
     <MESSAGE value="add travis ci" />
     <MESSAGE value="fix travis ci" />
     <MESSAGE value="add git sub modules" />
-    <MESSAGE value="update book list" />
     <MESSAGE value="update book list 2020" />
     <MESSAGE value="update book list." />
-    <option name="LAST_COMMIT_MESSAGE" value="update book list." />
+    <MESSAGE value="update book list" />
+    <option name="LAST_COMMIT_MESSAGE" value="update book list" />
   </component>
   <component name="WindowStateProjectService">
     <state x="224" y="114" width="1089" height="655" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602067871532">
@@ -227,30 +238,30 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="669" y="165" key="Github.UntrackedFilesDialog/0.0.1707.920@0.0.1707.920" timestamp="1601978094832" />
-    <state width="1685" height="157" key="GridCell.Tab.0.bottom" timestamp="1602141282336">
+    <state width="1685" height="471" key="GridCell.Tab.0.bottom" timestamp="1604836203405">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="157" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1602141282336" />
-    <state width="1685" height="157" key="GridCell.Tab.0.center" timestamp="1602141282336">
+    <state width="1685" height="471" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1604836203405" />
+    <state width="1685" height="471" key="GridCell.Tab.0.center" timestamp="1604836203404">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="157" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1602141282336" />
-    <state width="1685" height="157" key="GridCell.Tab.0.left" timestamp="1602141282335">
+    <state width="1685" height="471" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1604836203404" />
+    <state width="1685" height="471" key="GridCell.Tab.0.left" timestamp="1604836203404">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="157" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1602141282335" />
-    <state width="1685" height="157" key="GridCell.Tab.0.right" timestamp="1602141282336">
+    <state width="1685" height="471" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1604836203404" />
+    <state width="1685" height="471" key="GridCell.Tab.0.right" timestamp="1604836203405">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="157" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1602141282336" />
+    <state width="1685" height="471" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1604836203405" />
     <state x="355" y="105" key="SettingsEditor" timestamp="1602068995218">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="355" y="105" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1602068995218" />
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603674836029">
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603851610188">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1603674836029" />
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1603851610188" />
     <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1602067828121">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
