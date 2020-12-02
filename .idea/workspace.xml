@@ -15,9 +15,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="new post">
+    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="book list update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/book-list/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/book-list/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
         <option value="Duan Yi" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1iV0Uc4vqbtS9Xag43TfqxzKlLP" />
@@ -119,7 +118,9 @@
       <workItem from="1603851451728" duration="783000" />
       <workItem from="1604836156999" duration="1993000" />
       <workItem from="1605367485961" duration="1694000" />
-      <workItem from="1605972780063" duration="734000" />
+      <workItem from="1605972780063" duration="1679000" />
+      <workItem from="1606181204527" duration="2787000" />
+      <workItem from="1606825977365" duration="1103000" />
     </task>
     <task id="LOCAL-00001" summary="2020-10-6">
       <created>1601983050826</created>
@@ -205,7 +206,35 @@
       <option name="project" value="LOCAL" />
       <updated>1605371816888</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="book list update">
+      <created>1605973731694</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605973731694</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update book list">
+      <created>1606181852859</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606181852859</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update book list">
+      <created>1606318314937</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606318314937</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update book list">
+      <created>1606658981088</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606658981088</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,9 +263,10 @@
     <MESSAGE value="add git sub modules" />
     <MESSAGE value="update book list 2020" />
     <MESSAGE value="update book list." />
-    <MESSAGE value="update book list" />
     <MESSAGE value="new post" />
-    <option name="LAST_COMMIT_MESSAGE" value="new post" />
+    <MESSAGE value="book list update" />
+    <MESSAGE value="update book list" />
+    <option name="LAST_COMMIT_MESSAGE" value="update book list" />
   </component>
   <component name="WindowStateProjectService">
     <state x="224" y="114" width="1089" height="655" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602067871532">
@@ -255,30 +285,30 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="669" y="165" key="Github.UntrackedFilesDialog/0.0.1707.920@0.0.1707.920" timestamp="1601978094832" />
-    <state width="1685" height="486" key="GridCell.Tab.0.bottom" timestamp="1605408129925">
+    <state width="1685" height="486" key="GridCell.Tab.0.bottom" timestamp="1606825957740">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="486" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1605408129925" />
-    <state width="1685" height="486" key="GridCell.Tab.0.center" timestamp="1605408129925">
+    <state width="1685" height="486" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1606825957740" />
+    <state width="1685" height="486" key="GridCell.Tab.0.center" timestamp="1606825957740">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="486" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1605408129925" />
-    <state width="1685" height="486" key="GridCell.Tab.0.left" timestamp="1605408129924">
+    <state width="1685" height="486" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1606825957740" />
+    <state width="1685" height="486" key="GridCell.Tab.0.left" timestamp="1606825957740">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="486" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1605408129924" />
-    <state width="1685" height="486" key="GridCell.Tab.0.right" timestamp="1605408129925">
+    <state width="1685" height="486" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1606825957740" />
+    <state width="1685" height="486" key="GridCell.Tab.0.right" timestamp="1606825957740">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="486" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1605408129925" />
+    <state width="1685" height="486" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1606825957740" />
     <state x="355" y="105" key="SettingsEditor" timestamp="1602068995218">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="355" y="105" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1602068995218" />
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1605371819864">
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1606658983767">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1605371819864" />
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1606658983767" />
     <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1602067828121">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
