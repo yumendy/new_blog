@@ -17,6 +17,12 @@
   <component name="ChangeListManager">
     <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="book list update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.next.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.next.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/又一个博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/又一个博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/好好生活.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/好好生活.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/湘江边的随感.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/湘江边的随感.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/聊一聊信息流和读书.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/聊一聊信息流和读书.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +39,7 @@
         <option value="Duan Yi" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1iV0Uc4vqbtS9Xag43TfqxzKlLP" />
@@ -120,7 +126,10 @@
       <workItem from="1605367485961" duration="1694000" />
       <workItem from="1605972780063" duration="1679000" />
       <workItem from="1606181204527" duration="2787000" />
-      <workItem from="1606825977365" duration="1103000" />
+      <workItem from="1606825977365" duration="1766000" />
+      <workItem from="1606873151792" duration="3823000" />
+      <workItem from="1607824983829" duration="181000" />
+      <workItem from="1608023864044" duration="2014000" />
     </task>
     <task id="LOCAL-00001" summary="2020-10-6">
       <created>1601983050826</created>
@@ -234,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606658981088</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="book list update">
+      <created>1606872636468</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606872636468</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,54 +280,8 @@
     <MESSAGE value="update book list 2020" />
     <MESSAGE value="update book list." />
     <MESSAGE value="new post" />
-    <MESSAGE value="book list update" />
     <MESSAGE value="update book list" />
-    <option name="LAST_COMMIT_MESSAGE" value="update book list" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="224" y="114" width="1089" height="655" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602067871532">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="224" y="114" width="1089" height="655" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1602067871532" />
-    <state x="584" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602133049306">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="584" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1602133049306" />
-    <state x="727" y="358" key="Github.ShareDialog" timestamp="1601978066373">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="727" y="358" key="Github.ShareDialog/0.0.1707.920@0.0.1707.920" timestamp="1601978066373" />
-    <state x="669" y="165" key="Github.UntrackedFilesDialog" timestamp="1601978094832">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="669" y="165" key="Github.UntrackedFilesDialog/0.0.1707.920@0.0.1707.920" timestamp="1601978094832" />
-    <state width="1685" height="486" key="GridCell.Tab.0.bottom" timestamp="1606825957740">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1685" height="486" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1606825957740" />
-    <state width="1685" height="486" key="GridCell.Tab.0.center" timestamp="1606825957740">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1685" height="486" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1606825957740" />
-    <state width="1685" height="486" key="GridCell.Tab.0.left" timestamp="1606825957740">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1685" height="486" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1606825957740" />
-    <state width="1685" height="486" key="GridCell.Tab.0.right" timestamp="1606825957740">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1685" height="486" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1606825957740" />
-    <state x="355" y="105" key="SettingsEditor" timestamp="1602068995218">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="355" y="105" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1602068995218" />
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1606658983767">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1606658983767" />
-    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1602067828121">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1602067828121" />
+    <MESSAGE value="book list update" />
+    <option name="LAST_COMMIT_MESSAGE" value="book list update" />
   </component>
 </project>
