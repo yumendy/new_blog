@@ -15,14 +15,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="book list update">
+    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="icp">
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020年终随感.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.next.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.next.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/又一个博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/又一个博客.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/好好生活.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/好好生活.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/湘江边的随感.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/湘江边的随感.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/聊一聊信息流和读书.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/聊一聊信息流和读书.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +125,9 @@
       <workItem from="1606825977365" duration="1766000" />
       <workItem from="1606873151792" duration="3823000" />
       <workItem from="1607824983829" duration="181000" />
-      <workItem from="1608023864044" duration="2014000" />
+      <workItem from="1608023864044" duration="2834000" />
+      <workItem from="1609469570993" duration="202000" />
+      <workItem from="1609469808198" duration="2261000" />
     </task>
     <task id="LOCAL-00001" summary="2020-10-6">
       <created>1601983050826</created>
@@ -250,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606872636468</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="icp">
+      <created>1608033895821</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608033895821</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,6 +287,7 @@
     <MESSAGE value="new post" />
     <MESSAGE value="update book list" />
     <MESSAGE value="book list update" />
-    <option name="LAST_COMMIT_MESSAGE" value="book list update" />
+    <MESSAGE value="icp" />
+    <option name="LAST_COMMIT_MESSAGE" value="icp" />
   </component>
 </project>
