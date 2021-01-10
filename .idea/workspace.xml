@@ -15,10 +15,75 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="icp">
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020年终随感.md" afterDir="false" />
+    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="update book list.">
+      <change afterPath="$PROJECT_DIR$/source/_posts/2014/One more time, one more chance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2014/Python Challenge攻略-00.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2014/Python Challenge攻略-01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2014/The Secret.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2014/Ubuntu更新时提示-boot空间不足解决方案.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2014/无题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2014/随感（一）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2014/随感（二）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/OpenWrt ipv6 NAT配置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/OpenWrt ipv6 NAT配置/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/OpenWrt ipv6 NAT配置/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/OpenWrt ipv6 NAT配置/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/OpenWrt ipv6 NAT配置/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/OpenWrt ipv6 NAT配置/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-04.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-05.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-06.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-07.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-08.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-09.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-12.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-14.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-15.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-16.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-17.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-18.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python Challenge攻略-19.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python中两种文件写入方式比较.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/Python中两种文件写入方式比较/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/将Python脚本打包为exe文件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/段喵教你用20行代码搞定计算方法实验1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/闲的蛋疼系列之那个裙子到底什么颜色.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/闲的蛋疼系列之那个裙子到底什么颜色/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/闲的蛋疼系列之那个裙子到底什么颜色/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/闲的蛋疼系列之那个裙子到底什么颜色/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/闲的蛋疼系列之那个裙子到底什么颜色/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2015/闲的蛋疼系列之那个裙子到底什么颜色/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2016/Linux下Git Server搭建.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2016/Python多进程编程中进程池锁共享问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2016/京东评论爬虫一则.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2016/京东评论爬虫一则/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2016/京东评论爬虫一则/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2016/使用nginx-uwsgi部署django应用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2016/朋友圈里的九图脚本.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2016/朋友圈里的九图脚本/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2016/部落格记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2016/部落格记/20160818224208667.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2017/逃课日记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2017/逃课日记/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2017/逃课日记/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2017/逃课日记/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2017/逃课日记/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2017/逃课日记/5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.next.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.next.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scaffolds/post.md" beforeDir="false" afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2020年终随感.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020/2020年终随感.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/又一个博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019/又一个博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/好好生活.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020/好好生活.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/湘江边的随感.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020/湘江边的随感.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/湘江边的随感/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020/湘江边的随感/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/湘江边的随感/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020/湘江边的随感/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/聊一聊信息流和读书.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020/聊一聊信息流和读书.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +100,21 @@
         <option value="Duan Yi" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/themes/next" value="f9956802c9cf51ebdb447fb954efa6383fbb2bd6" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1iV0Uc4vqbtS9Xag43TfqxzKlLP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -64,8 +142,17 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\hexo\new_blog\source\_posts\2016" />
+      <recent name="D:\hexo\new_blog\source\_posts\2015" />
+      <recent name="D:\hexo\new_blog\source\_posts\2014" />
+      <recent name="D:\hexo\new_blog\source\_posts\2020" />
+      <recent name="D:\hexo\new_blog\source\_posts\2019" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.server">
     <configuration default="true" type="js.build_tools.grunt">
@@ -127,7 +214,9 @@
       <workItem from="1607824983829" duration="181000" />
       <workItem from="1608023864044" duration="2834000" />
       <workItem from="1609469570993" duration="202000" />
-      <workItem from="1609469808198" duration="2261000" />
+      <workItem from="1609469808198" duration="3333000" />
+      <workItem from="1609981737064" duration="21966000" />
+      <workItem from="1610266629187" duration="7929000" />
     </task>
     <task id="LOCAL-00001" summary="2020-10-6">
       <created>1601983050826</created>
@@ -255,7 +344,28 @@
       <option name="project" value="LOCAL" />
       <updated>1608033895821</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="new post.">
+      <created>1609476109484</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1609476109484</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update book list.">
+      <created>1609982070634</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1609982070634</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update book list.">
+      <created>1610071447023</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1610071447023</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +378,17 @@
           <value>
             <State>
               <option name="SHOW_ROOT_NAMES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -283,11 +404,13 @@
     <MESSAGE value="fix travis ci" />
     <MESSAGE value="add git sub modules" />
     <MESSAGE value="update book list 2020" />
-    <MESSAGE value="update book list." />
     <MESSAGE value="new post" />
     <MESSAGE value="update book list" />
     <MESSAGE value="book list update" />
     <MESSAGE value="icp" />
-    <option name="LAST_COMMIT_MESSAGE" value="icp" />
+    <MESSAGE value="new post." />
+    <MESSAGE value="update book list." />
+    <MESSAGE value="merge old blogs" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge old blogs" />
   </component>
 </project>
