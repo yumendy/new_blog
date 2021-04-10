@@ -15,9 +15,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="命令行时钟流工具">
+    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="pyth">
+      <change afterPath="$PROJECT_DIR$/source/_drafts/《手机摄影，凭什么比相机还酷》笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2021/python3-共享内存模块简介.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2021/python3-共享内存模块简介/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2021/python3-共享内存模块简介/02.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2020/2020年终随感.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2021/2020年终随感.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +109,10 @@
     </configuration>
     <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="build" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
       <node-interpreter value="project" />
       <envs />
       <method v="2" />
@@ -156,6 +163,12 @@
       <workItem from="1613627654979" duration="514000" />
       <workItem from="1613628186786" duration="603000" />
       <workItem from="1615945083561" duration="39000" />
+      <workItem from="1615945183667" duration="2143000" />
+      <workItem from="1617804037516" duration="563000" />
+      <workItem from="1617804649670" duration="305000" />
+      <workItem from="1617805189632" duration="1049000" />
+      <workItem from="1617933148906" duration="277000" />
+      <workItem from="1617933488452" duration="3061000" />
     </task>
     <task id="LOCAL-00001" summary="2020-10-6">
       <created>1601983050826</created>
@@ -332,7 +345,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612111523000</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update book list">
+      <created>1615945388945</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1615945388945</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update book list">
+      <created>1617805584491</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1617805584491</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,8 +404,8 @@
     <MESSAGE value="new post." />
     <MESSAGE value="merge old blogs" />
     <MESSAGE value="update book list." />
-    <MESSAGE value="update book list" />
     <MESSAGE value="命令行时钟流工具" />
-    <option name="LAST_COMMIT_MESSAGE" value="命令行时钟流工具" />
+    <MESSAGE value="update book list" />
+    <option name="LAST_COMMIT_MESSAGE" value="update book list" />
   </component>
 </project>
