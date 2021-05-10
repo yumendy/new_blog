@@ -15,10 +15,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="update book list">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2021/python3-共享内存模块简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2021/python3-共享内存模块简介.md" afterDir="false" />
-    </list>
+    <list default="true" id="53afb18d-7cc9-498d-8ab8-85ea4ae2d6ee" name="Default Changelist" comment="update book list" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,6 +163,7 @@
       <workItem from="1617933148906" duration="277000" />
       <workItem from="1617933488452" duration="4660000" />
       <workItem from="1618243331761" duration="39000" />
+      <workItem from="1620610097677" duration="114000" />
     </task>
     <task id="LOCAL-00001" summary="2020-10-6">
       <created>1601983050826</created>
